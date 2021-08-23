@@ -1,6 +1,6 @@
 // the answers
 // Ellen Nickles
-// ellennickles.site
+// ellen.town
 
 // References:
 // Jeremey Douglass: https://forum.processing.org/two/discussion/18924/image-sequence-mousex
