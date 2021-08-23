@@ -55,7 +55,7 @@ function setup() {
   sound = loadSound("assets/pageFlip.mp3");
 
   for (var i = 0; i < totalImages; i++) {
-    images[i] = myImages(i, "assets/" + i + ".jpg");
+    images[i] = myImages(i, "assets/" + i + ".webp");
   }
 }
 
